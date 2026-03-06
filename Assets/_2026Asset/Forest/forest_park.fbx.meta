@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 1a338b6b20790c049a5ad2211c1e1276
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 481ab3a2f6b81904aba6eef4d714cf24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree
+    second: {fileID: 2100000, guid: 759058322055ec242b649c77e30e872b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White stone stylized
+    second: {fileID: 2100000, guid: 1c14cad1a2972f14f8ecb96e8f9fd71e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bush
+    second: {fileID: 2100000, guid: 6bf0bdf68dbd31f4ba8f15aa2bb75b09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire.001
+    second: {fileID: 2100000, guid: 9b9500b87d383d9429566b713d249967, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower_01
+    second: {fileID: 2100000, guid: c17d206f32238d14997ce3e8ed42d691, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower_02
+    second: {fileID: 2100000, guid: 799673effd7292d4c8c342434a470e83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground
+    second: {fileID: 2100000, guid: df02c43ab46672e42b4c290068ef0edd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaf
+    second: {fileID: 2100000, guid: bae8486e0c0db484181039a74c407358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lotus_1
+    second: {fileID: 2100000, guid: 225d5f21a72c2aa438e58a65ea3e2bcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lotus_2
+    second: {fileID: 2100000, guid: 8608fa24b69417b41a6569565628fcee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lotus_3
+    second: {fileID: 2100000, guid: 240f8d5f74d508c43bae2b6bd55e3a1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: picnic_object
+    second: {fileID: 2100000, guid: 76e3da19886525640b3a818606c22790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road
+    second: {fileID: 2100000, guid: a62869275583f4948ac4a008055618ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rock_object_01
+    second: {fileID: 2100000, guid: 8bd8d6dfef56afa4483f00f8ab57bd9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rock_object_02
+    second: {fileID: 2100000, guid: 366995c7b8fb51647b2da379323a5516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rock_object_03
+    second: {fileID: 2100000, guid: 753eef69f0a465342a31a9a90ab9ae56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rock_object_04
+    second: {fileID: 2100000, guid: 42c821b08aca30f42b548319081e3a4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree_object_01
+    second: {fileID: 2100000, guid: 4915505123a538141b0ba53816398c67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water
+    second: {fileID: 2100000, guid: dd828932695d5ef4a94d6fe04d18a43a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_object_01
+    second: {fileID: 2100000, guid: 5a9cebd839e4fdd498506e1b4c40dd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_object_02
+    second: {fileID: 2100000, guid: 0be4e0a2e15eedc48b6d51773dee2e1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_object_03
+    second: {fileID: 2100000, guid: 97f5c97a677b46b45bda8dff908e1532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_object_04
+    second: {fileID: 2100000, guid: 1019ee506b3522a4a80c1aa9703fc025, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "ChatGPT Image 2026\uB144 2\uC6D4 26\uC77C \uC624\uC804 01_12_33"
+    second: {fileID: 2800000, guid: aa10dc1bb1cbbff42ac0f68bc0c5511a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "ChatGPT Image 2026\uB144 2\uC6D4 26\uC77C \uC624\uC804 12_39_57"
+    second: {fileID: 2800000, guid: 829a0f73315ec6f49aaed3515f9e82f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "ChatGPT Image 2026\uB144 3\uC6D4 6\uC77C \uC624\uD6C4 03_03_53"
+    second: {fileID: 2800000, guid: 7d1a204d9cf2f84459f880c941cf2073, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tree.001_Alpha
+    second: {fileID: 2800000, guid: 6a6682a983243174880daf6f8b37520b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tree.001_BaseColor
+    second: {fileID: 2800000, guid: 1347ac2918af5c840b8f1ce4a94faea8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tree.001_Emission
+    second: {fileID: 2800000, guid: 99876823bb09b6842b9bab30c5749b43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tree.001_Metallic
+    second: {fileID: 2800000, guid: d17d5735b9605a2468504dfac9139a16, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tree.001_Normal
+    second: {fileID: 2800000, guid: b4e10823b18394c43baed7e7fe30788e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tree.001_Roughness
+    second: {fileID: 2800000, guid: ad93c73cf0a0ede48b6b2d1f2c7bb712, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White stone stylized_color
+    second: {fileID: 2800000, guid: 5a74d9dda0014714985a85af94926ca5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White stone stylized_normal
+    second: {fileID: 2800000, guid: 7ba073155e00bee4aa43c5cabe90f09e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White stone stylized_roughness
+    second: {fileID: 2800000, guid: 0b982361b02ab334f8aea3d8d55236d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bush_flower
+    second: {fileID: 2800000, guid: bff063aa7e5a2f840a825e310a305c90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ddcd86b7a8c1d1b2516330b54a5311ad
+    second: {fileID: 2800000, guid: cb6e4a7063e8e9246a73914de12a5333, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ground_Alpha
+    second: {fileID: 2800000, guid: 83e4c4b28fb5fe44a85a5a55607c831f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ground_BaseColor
+    second: {fileID: 2800000, guid: c0b327ab044031a4798268cb19f899a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ground_Emission
+    second: {fileID: 2800000, guid: 879e057ec27a2944e801aa22cfcc7357, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ground_Metallic
+    second: {fileID: 2800000, guid: 18a3c038102c9b64aaf43d9906ae9eef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ground_Normal
+    second: {fileID: 2800000, guid: 00bba70b4ef9ecc43bb505a407abb7e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ground_Roughness
+    second: {fileID: 2800000, guid: b613f3fd3b8c34642bca7e386d8623d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leaf
+    second: {fileID: 2800000, guid: 15f5e2679f81c9c47a9e928628d33c95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lotus_flower
+    second: {fileID: 2800000, guid: 3ec9dd587c8027e4fb1736421d231b7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lotus_leaf
+    second: {fileID: 2800000, guid: cd050bf3687de924d8811b0f7aa99af6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: picnic_object_Alpha
+    second: {fileID: 2800000, guid: 5e912beea981d914e8339f5319623fa7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: picnic_object_BaseColor
+    second: {fileID: 2800000, guid: 20386f2146fc9954b9d6862c4b628479, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: picnic_object_Emission
+    second: {fileID: 2800000, guid: a7c26461ac7a3dc4a9360d385041db39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: picnic_object_Metallic
+    second: {fileID: 2800000, guid: 590dd62930ac8a84c87328f3ae584ce1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: picnic_object_Normal
+    second: {fileID: 2800000, guid: 7fbdda98012213549bd229eabc738f19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: picnic_object_Roughness
+    second: {fileID: 2800000, guid: 02a637cd122b53649a495e05cd7185d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: road
+    second: {fileID: 2800000, guid: d51f663b0b21a1844a200c6744964583, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_01_Alpha
+    second: {fileID: 2800000, guid: 0a75eafca6077384ab113d6f54fb120e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_01_BaseColor
+    second: {fileID: 2800000, guid: e6462d5bc57f39040b5ca8c21488a138, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_01_Emission
+    second: {fileID: 2800000, guid: 95b1f1b3ee23423448d702650cc7cfcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_01_Metallic
+    second: {fileID: 2800000, guid: eefe6b1f5c75eb0459ecf94bcb93f5ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_01_Normal
+    second: {fileID: 2800000, guid: 649e6cd130ddb1741a6efc8d1152dc62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_01_Roughness
+    second: {fileID: 2800000, guid: cb2b081398ff77947b7c87ebad5caacf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_03_Alpha
+    second: {fileID: 2800000, guid: cb73bc0f2f043dd47879d43753b5a183, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_03_BaseColor
+    second: {fileID: 2800000, guid: f07e58316aace6b488faa1c989c29ee2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_03_Emission
+    second: {fileID: 2800000, guid: d79e5eae8d52d634da13c16a14a9f3e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_03_Metallic
+    second: {fileID: 2800000, guid: 64af007a20a879a42991c456929816cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_03_Normal
+    second: {fileID: 2800000, guid: 041d56b53567eaa4baf2f1a3168df19d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_03_Roughness
+    second: {fileID: 2800000, guid: 926750a700514e14d81ec23e957957c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rock_object_04
+    second: {fileID: 2800000, guid: 057687246606b5144b8dc9e74863b377, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree_object_01_Alpha
+    second: {fileID: 2800000, guid: 0443ec14e6ac80d408c885ab1aebe76e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree_object_01_BaseColor
+    second: {fileID: 2800000, guid: 0b5e1bd38daf4974ca288732db7ec334, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree_object_01_Emission
+    second: {fileID: 2800000, guid: 8d75381151c43744888ad029f1244ddc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree_object_01_Metallic
+    second: {fileID: 2800000, guid: eeff259dbdc212f4ca477b27a0f8482d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree_object_01_Normal
+    second: {fileID: 2800000, guid: ca57e1532120f604c9553d2792f08818, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree_object_01_Roughness
+    second: {fileID: 2800000, guid: 5eac5213860dcd747b620284beb39d48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: water_Alpha
+    second: {fileID: 2800000, guid: b81c9eb8fd1bd26469c6b15bd6e80b44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: water_BaseColor
+    second: {fileID: 2800000, guid: 80a150221b9cc3e4eba5da6d66e8fb90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: water_Emission
+    second: {fileID: 2800000, guid: dc27786017fa8444eb67c34635166e6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: water_Metallic
+    second: {fileID: 2800000, guid: 719de7916ef6f864bbf75ca100cafa7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: water_Normal
+    second: {fileID: 2800000, guid: eef15f105a557ad44b977b98bc1d85cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: water_Roughness
+    second: {fileID: 2800000, guid: 1ab0a277449db944295d1c4d1c8e88ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_01_Alpha
+    second: {fileID: 2800000, guid: cae8b9b05d36753499cdafb01bdc9cfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_01_BaseColor
+    second: {fileID: 2800000, guid: 088ef35e1c7b29a4fa61642dc5639f5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_01_Emission
+    second: {fileID: 2800000, guid: 60ab8394b213fd84286e79400782b59f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_01_Metallic
+    second: {fileID: 2800000, guid: 45438e4f9edb2924790bdaa7ccbd1c4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_01_Normal
+    second: {fileID: 2800000, guid: 7d731b71ce09a89418b86dbc8522f751, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_01_Roughness
+    second: {fileID: 2800000, guid: 0d14e9051331f11468969567f5d37b43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_02_Alpha
+    second: {fileID: 2800000, guid: ab8947ae0c182454e86589e47ab78b87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_02_BaseColor
+    second: {fileID: 2800000, guid: 8a0dc6faf5afdbe408e39d7ee8732364, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_02_Emission
+    second: {fileID: 2800000, guid: 253b1d677b8770c4a86f994cd9f15a08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_02_Metallic
+    second: {fileID: 2800000, guid: a7c0b937fdb3b1e46b0789466d71c0a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_02_Normal
+    second: {fileID: 2800000, guid: b8a0e7b94d27bfd4eb0c2c047ad06e42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_02_Roughness
+    second: {fileID: 2800000, guid: a2af26bf730e8bc469796574e144fd49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_03_Alpha
+    second: {fileID: 2800000, guid: 30e70606ba5a88140863bac58c218173, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_03_BaseColor
+    second: {fileID: 2800000, guid: 9adb6cbdaf71b714cac84edf445aa5d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_03_Emission
+    second: {fileID: 2800000, guid: de988d545aabbac41ba60b14f5c01bf8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_03_Metallic
+    second: {fileID: 2800000, guid: cd501b88994389d4d8ec25aaf42facb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_03_Normal
+    second: {fileID: 2800000, guid: d5e35bc6005c4674f887303f28e5aab7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_03_Roughness
+    second: {fileID: 2800000, guid: f582f038d309ca940b234b5644a91e0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_04_Alpha
+    second: {fileID: 2800000, guid: dc480920df0c18a4e8531536975b30bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_04_BaseColor
+    second: {fileID: 2800000, guid: 009a508c1c1a259489966b0d43a5554f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_04_Emission
+    second: {fileID: 2800000, guid: e82a653205d25ed439b97f10fa19a287, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_04_Metallic
+    second: {fileID: 2800000, guid: ec90d8d953b65144d88bc02701dd06d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_04_Normal
+    second: {fileID: 2800000, guid: 344e8a648ceed3b4f8ca3a430c64f055, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_object_04_Roughness
+    second: {fileID: 2800000, guid: 419aa808b435ec74ca316013628c05bf, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

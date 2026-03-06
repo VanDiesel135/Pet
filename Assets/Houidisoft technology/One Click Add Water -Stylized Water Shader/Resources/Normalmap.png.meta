@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: feb8121d7e8a03f4a8cbba9e2974a000
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305970
+  packageName: One Click Add Water -Stylized Water Shader
+  packageVersion: 1.5.1
+  assetPath: Assets/Houidisoft technology/One Click Add Water -Stylized Water Shader/Resources/Normalmap.png
+  uploadId: 757861
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -93,6 +100,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
@@ -115,10 +135,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 305970
-  packageName: One Click Add Water -Stylized Water Shader
-  packageVersion: 1.5.1
-  assetPath: Assets/Houidisoft technology/One Click Add Water -Stylized Water Shader/Resources/Normalmap.png
-  uploadId: 757861
