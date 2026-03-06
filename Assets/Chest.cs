@@ -5,7 +5,7 @@ using UnityEngine;
 public class Chest : MonoBehaviour
 {
 
-    public int maxCount = 2;
+    public int maxCount = 3;
     public int currentCount = 0;
     public GameObject fx;
 
