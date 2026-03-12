@@ -15,7 +15,8 @@ public class Ball : MonoBehaviour
         for (int i = 0; i < Pet.Count; i++)
 
         {
-            petControllers.Add(Pet[i].GetComponent<PetController>());
+            if (Pet[i].TryGetComponent<PetController>(out var pc))
+                petControllers.Add(pc);
         }
     }
 
